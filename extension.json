@@ -1,0 +1,14 @@
+{
+    "identifier": "nkoporec.html-snippets",
+    "name": "HTML Snippets",
+    "vendor": "nkoporec",
+    "description": "HTML 5 Snippets.",
+    "version": "0.1.0",
+    "categories": ["completions"],
+    
+    "main": "main.js",
+    
+    "activationEvents": [
+        "onLanguage:html"
+    ],
+}
