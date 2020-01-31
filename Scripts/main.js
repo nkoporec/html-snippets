@@ -1,5 +1,5 @@
 
-const htmlSnippets = require('./snippets/snippets.json');
+const htmlSnippets = require("./snippets/snippets.json");
 
 class CompletionProvider {
 
