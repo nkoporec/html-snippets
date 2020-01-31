@@ -5,6 +5,7 @@
     "description": "HTML 5 Snippets.",
     "version": "0.1.0",
     "categories": ["completions"],
+    "bugs": "https://github.com/nkoporec/html-snippets/issues",
     
     "main": "main.js",
     

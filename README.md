@@ -9,9 +9,9 @@ Inspired by [Mohamed Abusaid](https://github.com/abusaidm) [HTML Snippets](html-
 
 ## Installation
 ```
-git clone https://github.com/nkoporec/html-snippets.novaextension
+git clone https://github.com/nkoporec/html-snippets
 ```
-or [download zip](https://github.com/nkoporec/html-snippets.novaextension/archive/master.zip), unzip it and rename the folder to `html-snippets.novaextension`
+or [download zip](https://github.com/nkoporec/html-snippets/archive/master.zip), unzip it and rename the folder to `html-snippets.novaextension`
 
 Double click the file and choose `Install`
 
@@ -27,7 +27,7 @@ Snippets named as the tag without braces
 
 ### Changelog
 
-Please see [CHANGELOG](html-snippets.novaextension/CHANGELOG.md) for more information what has changed recently.
+Please see [CHANGELOG](html-snippets/CHANGELOG.md) for more information what has changed recently.
 
 ## Contributing
 
