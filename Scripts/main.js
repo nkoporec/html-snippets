@@ -7,12 +7,12 @@ class CompletionProvider {
 		let snippets = [];
 		
 		for (let snippet in htmlSnippets) {
-			let item = new CompletionItem(htmlSnippets[snippet].prefix, CompletionItemKind.File);
-            console.log(htmlSnippets[snippet].description);
+			let item = new CompletionItem(htmlSnippets[snippet].prefix, CompletionItemKind.Tag);
+			console.log(htmlSnippets[snippet].description);
 	
 			item.documentation = htmlSnippets[snippet].description;
 			item.insertText = htmlSnippets[snippet].body;
-			item.tokenize = true;
+			item.insertTextFormat = InsertTextFormat.Snippet;
 			
 			snippets.push(item)
 		}
